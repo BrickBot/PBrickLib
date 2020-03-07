@@ -19,7 +19,7 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307  USA
 
-WHAT IS THE PBRICK LIBRARY?
+What Is the PBrick Library?
 ---------------------------
 
 The PBrick Library is a shared library that provides access to the
@@ -47,7 +47,7 @@ a separate library is:
   on future palms, while the interface code is very palm hardware
   dependant and may require updates to work on future palm models.
 
-INSTALLATION / THE DEMO APPLICATIONS
+Installation / The Demo Applications
 ------------------------------------
 
 The PBrick Library comes with two example programs:
@@ -57,7 +57,7 @@ The PBrick Library comes with two example programs:
 In order to use one or both of these programs install them on your
 palm the usual way together with the PBrick Library (PBrickLib.prc).
 
-PBRICK REMOTE
+PBrick Remote
 -------------
 
 The PBrick Remote program demonstrates simple one-way communication
@@ -72,7 +72,7 @@ and RMover besides the fact, that PBrick Remote ist open source and,
 hence, can be used as a basis of your own palm/RCX programming
 experiments.
 
-PBRICK DEMO
+PBrick Demo
 -----------
 
 The PBrick Demo makes use of the PBrick Libraries capability to read
@@ -90,4 +90,20 @@ RCX.
 Have fun,
   Till
 
+Other Known Software for the RCX and PalmOS
+-------------------------------------------
+[Ellams Software](http://www.ellams.com/) released a proprietary RCX
+remote control app for PalmOS called Robotic Mover.  The website used
+to be primary software with a link to the developer’s hydroponics
+website (c.f. [link](https://web.archive.org/web/20080418211730/http://www.ellams.com/links.htm));
+now, however, the website is primarily devoted to hydroponics.
+
+Based on archive.org, the original Ellams Software website appears to
+have gone offline between September 13 and October 14, 2008.  At that
+time, [software on the website was available for free download](https://web.archive.org/web/20080914032232/http://www.ellams.com/palmutil.htm).
+
+The Robotic Mover program is available for download at the link below.
+* [RoboticMover.zip](https://github.com/BrickBot/PBrickLib/files/4301214/RoboticMover.zip)
+
+The PBrickLib project is not associated in any way with Ellams Software or Robotic Mover.
 
